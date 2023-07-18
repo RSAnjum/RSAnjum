@@ -8,11 +8,11 @@ As a software engineering student, I'm constantly learning and exploring new tec
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=zemblix&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RSAnjum&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=zemblix&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RSAnjum&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zemblix&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RSAnjum&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 
